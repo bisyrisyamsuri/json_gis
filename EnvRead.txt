@@ -1,4 +1,4 @@
-how to start flask:
+how to start project with flask:
 1. py -3 -m venv venv
 2. venv\Scripts\activate
 3. pip install Flask

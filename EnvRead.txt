@@ -1,0 +1,10 @@
+how to start flask:
+1. py -3 -m venv venv
+2. venv\Scripts\activate
+3. pip install Flask
+
+how to install flask-mysql:
+1. pip install flask-mysqldb
+
+how to add module yaml in flask:
+1. pip install pyyaml
